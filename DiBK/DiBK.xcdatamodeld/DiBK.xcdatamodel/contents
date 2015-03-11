@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="12F37" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="AuditType" representedClassName="AuditType" syncable="YES">
+        <attribute name="auditTypeId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="auditTypeName" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="isChecked" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <relationship name="checklist" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Checklist" inverseName="audiTypes" inverseEntity="Checklist" syncable="YES"/>
+        <relationship name="checkpoints" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="CheckPoint" inverseName="auditType" inverseEntity="CheckPoint" syncable="YES"/>
+        <relationship name="pursuants" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Pursuant" inverseName="auditType" inverseEntity="Pursuant" syncable="YES"/>
+        <relationship name="questions" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Question" inverseName="auditType" inverseEntity="Question" syncable="YES"/>
+        <relationship name="themeRefs" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="ThemeReference" inverseName="auditType" inverseEntity="ThemeReference" syncable="YES"/>
+    </entity>
+    <entity name="Chapter1Info" representedClassName="Chaperter1Info" syncable="YES">
+        <attribute name="andreKommentarer" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="annet" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="bnr" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="datoFortatt" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="fnr" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="gnr" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="infoName" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="kommentar" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="kommune" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="kommune_sakanr" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="kommuneID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p1cb1" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p1cb2" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p1cb3" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p1cb4" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p1cb5" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p1cb6" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p1cb7" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb1" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb2" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb3" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb4" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb5" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb6" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb7" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb8" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb9" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb10" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb11" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p2cb12" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="rapporten_gjelder" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="snr" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="stedig_tilsyn_varslet" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <attribute name="titakenEr" optional="YES" attributeType="String" defaultValueString="" syncable="YES"/>
+        <relationship name="managers" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Manager" syncable="YES"/>
+    </entity>
+    <entity name="Checklist" representedClassName="Checklist" syncable="YES">
+        <attribute name="checklistId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="checklistName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="audiTypes" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="AuditType" inverseName="checklist" inverseEntity="AuditType" syncable="YES"/>
+        <relationship name="subtitles" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="ChecklistSubtitle" inverseName="checklist" inverseEntity="ChecklistSubtitle" syncable="YES"/>
+        <relationship name="template" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Template" inverseName="checklists" inverseEntity="Template" syncable="YES"/>
+    </entity>
+    <entity name="ChecklistSubtitle" representedClassName="ChecklistSubtitle" syncable="YES">
+        <attribute name="subtitleId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="subtitleName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="checklist" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Checklist" inverseName="subtitles" inverseEntity="Checklist" syncable="YES"/>
+    </entity>
+    <entity name="CheckPoint" representedClassName="CheckPoint" syncable="YES">
+        <attribute name="checkPointId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="checkPointName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="auditType" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="AuditType" inverseName="checkpoints" inverseEntity="AuditType" syncable="YES"/>
+    </entity>
+    <entity name="Conclusion" representedClassName="Conclusion" syncable="YES">
+        <attribute name="checkbox" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="combo1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="combo2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nMaybe" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nNo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nYes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textview1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textview2" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Manager" representedClassName="Manager" syncable="YES">
+        <attribute name="a" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="b" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Municipality" representedClassName="Municipality" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="county" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="language" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mNr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mWeapon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="zipCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="zipPlace" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="user" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="UserInfo" inverseName="municipalities" inverseEntity="UserInfo" syncable="YES"/>
+    </entity>
+    <entity name="Photo" representedClassName="Photo" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Pursuant" representedClassName="Pursuant" syncable="YES">
+        <attribute name="pursuantId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="pursuantName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="auditType" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="AuditType" inverseName="pursuants" inverseEntity="AuditType" syncable="YES"/>
+    </entity>
+    <entity name="Question" representedClassName="Question" syncable="YES">
+        <attribute name="answer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionComment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="questionIndex" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="questionName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="auditType" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="AuditType" inverseName="questions" inverseEntity="AuditType" syncable="YES"/>
+        <relationship name="checkpoints" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CheckPoint" syncable="YES"/>
+        <relationship name="photos" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Photo" syncable="YES"/>
+        <relationship name="pursuants" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Pursuant" syncable="YES"/>
+    </entity>
+    <entity name="Rapport" representedClassName="Rapport" syncable="YES">
+        <attribute name="dateCompletedStr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateCreated" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="dateLastEdited" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="isComplete" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="rapportName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rapportNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="chapter1Info" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Chapter1Info" syncable="YES"/>
+        <relationship name="conclusion" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Conclusion" syncable="YES"/>
+        <relationship name="templates" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Template" syncable="YES"/>
+        <relationship name="user" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="UserInfo" inverseName="rapports" inverseEntity="UserInfo" syncable="YES"/>
+    </entity>
+    <entity name="Template" representedClassName="Template" syncable="YES">
+        <attribute name="templateId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="templateLanguage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="templateName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="checklists" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Checklist" inverseName="template" inverseEntity="Checklist" syncable="YES"/>
+        <relationship name="themes" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Theme" inverseName="template" inverseEntity="Theme" syncable="YES"/>
+        <relationship name="user" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="UserInfo" syncable="YES"/>
+    </entity>
+    <entity name="Theme" representedClassName="Theme" syncable="YES">
+        <attribute name="themeId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="themeName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="template" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Template" inverseName="themes" inverseEntity="Template" syncable="YES"/>
+    </entity>
+    <entity name="ThemeReference" representedClassName="ThemeReference" syncable="YES">
+        <attribute name="themeRefId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="themeRefNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="auditType" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="AuditType" inverseName="themeRefs" inverseEntity="AuditType" syncable="YES"/>
+    </entity>
+    <entity name="UserInfo" representedClassName="UserInfo" syncable="YES">
+        <attribute name="isBokmal" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="kommuneID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="login" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="municipality" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="municipalities" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Municipality" inverseName="user" inverseEntity="Municipality" syncable="YES"/>
+        <relationship name="rapports" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Rapport" inverseName="user" inverseEntity="Rapport" syncable="YES"/>
+        <relationship name="templates" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Template" syncable="YES"/>
+    </entity>
+    <configuration name="Configuration"/>
+    <elements>
+        <element name="AuditType" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Chapter1Info" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Checklist" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="ChecklistSubtitle" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="CheckPoint" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Conclusion" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Manager" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Municipality" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Photo" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Pursuant" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Question" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Rapport" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Template" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Theme" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="ThemeReference" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="UserInfo" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

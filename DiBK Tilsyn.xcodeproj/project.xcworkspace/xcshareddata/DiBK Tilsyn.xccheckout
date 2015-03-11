@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>047BC7B0-026E-457C-86B4-CB96FF6041B2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DiBK Tilsyn</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76CF5FC9-6573-43F6-98BE-FEEA3C822BF3</key>
+		<string>svn+ssh://svn.dibk.no/Library/Subversion/Kommunale%252520tilsyn</string>
+		<key>e9a60b20-abb7-4c07-afe1-c20173a90ff2++78</key>
+		<string>svn+ssh://svn.dibk.no/Library/Subversion/Kommunale%252520tilsyn/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Appen/DiBK Tilsyn.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76CF5FC9-6573-43F6-98BE-FEEA3C822BF3</key>
+		<string>../../../../Kommunale tilsyn</string>
+		<key>e9a60b20-abb7-4c07-afe1-c20173a90ff2++78</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>76CF5FC9-6573-43F6-98BE-FEEA3C822BF3</key>
+		<string>svn+ssh://svn.dibk.no/Library/Subversion</string>
+		<key>e9a60b20-abb7-4c07-afe1-c20173a90ff2++78</key>
+		<string>svn+ssh://svn.dibk.no/Library/Subversion</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://svn.dibk.no/Library/Subversion/Kommunale%252520tilsyn/trunk/Appen/DiBK%20Tilsyn.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>e9a60b20-abb7-4c07-afe1-c20173a90ff2++78</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76CF5FC9-6573-43F6-98BE-FEEA3C822BF3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Kommunale tilsyn</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>e9a60b20-abb7-4c07-afe1-c20173a90ff2++78</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Kommunale%20tilsyn%20(trunk)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
