@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "e9a60b20-abb7-4c07-afe1-c20173a90ff2++4293",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "e9a60b20-abb7-4c07-afe1-c20173a90ff2++4293" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "e9a60b20-abb7-4c07-afe1-c20173a90ff2++4293" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "047BC7B0-026E-457C-86B4-CB96FF6041B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "e9a60b20-abb7-4c07-afe1-c20173a90ff2++4293" : "Kommunale%20tilsyn\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DiBK Tilsyn",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "v1.2.0\/DiBK Tilsyn.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn+ssh:\/\/svn.dibk.no\/Library\/Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e9a60b20-abb7-4c07-afe1-c20173a90ff2++4293"
+    }
+  ]
+}
