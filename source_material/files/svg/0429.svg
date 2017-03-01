@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4232" />
+  <path
+     d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+     id="path4240-0"
+     style="fill:#008c31;fill-opacity:1;stroke:none" />
+  <path
+     d="m 123.50463,23.837966 c -0.29688,-8.064438 -26.364182,-0.592351 -25.667222,6.424477 9.490182,95.544927 5.873322,187.737597 7.995182,281.397987 0.0917,4.0494 -1.19817,11.7352 0.30892,12.1568 4.94607,1.38364 16.89345,1.51056 17.66509,-1.3141 2.13352,-7.80989 -0.19871,-8.2197 -0.50846,-21.03283 l -4.85146,-200.68462 c -0.35465,-14.670493 8.71219,-14.264017 10.30777,-22.807516 0.38165,-2.043559 -3.33972,-2.254282 -3.41637,-4.336301 z"
+     id="path3003"
+     style="fill:#faf700;fill-opacity:1;stroke:none" />
+  <path
+     d="m 19.857652,55.231955 c -1.924262,9.075424 2.446963,24.039316 9.928825,28.24642 21.822398,-12.160227 42.64985,-21.036152 63.193038,-28.195839 2.256758,-0.786522 5.619464,-1.891792 6.815863,3.519308 11.662862,-4.442353 22.769422,-3.850322 25.649462,7.999678 0.60056,2.471 3.61286,0.507815 3.84342,-1.459225 1.37906,-11.765484 1.61306,-45.439105 -5.02224,-42.322751 C 96.418125,36.098673 49.397698,50.323179 19.857652,55.231955 z"
+     id="path3001"
+     style="fill:#faf700;fill-opacity:1;stroke:#008c31;stroke-width:0.98807424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <use
+     transform="translate(110,88)"
+     id="use3773"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3003" />
+  <use
+     transform="translate(110,88)"
+     id="use3775"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3001" />
+  <use
+     transform="translate(184,0)"
+     id="use3777"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3003" />
+  <use
+     transform="translate(184,0)"
+     id="use3779"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3001" />
+</svg>

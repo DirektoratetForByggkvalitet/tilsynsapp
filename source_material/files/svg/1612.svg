@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:cc="http://creativecommons.org/ns#"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:svg="http://www.w3.org/2000/svg"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1"
+ width="390"
+ height="480"
+ id="svg4228">
+<metadata
+ id="metadata12">
+<rdf:RDF>
+<cc:Work
+ rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title></dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs
+ id="defs4232" />
+<path
+ d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+ id="path4240-0"
+ style="fill:#d61a1a;fill-opacity:1;stroke:none" />
+<use
+ transform="matrix(0.30651245,0.95186665,-0.95186665,0.30651245,322.62803,-47.065448)"
+ id="use3764"
+ x="0"
+ y="0"
+ width="390"
+ height="480"
+ xlink:href="#path2827" />
+<use
+ transform="matrix(0.3286374,-0.94445617,0.94445617,0.3286374,-58.915028,315.33139)"
+ id="use3766"
+ x="0"
+ y="0"
+ width="390"
+ height="480"
+ xlink:href="#path2827" />
+<path
+ d="m 188.5214,191.43969 c 1.60616,-12.83195 4.98584,-30.72928 -11.90661,-39.33852 -21.76019,-11.09008 -14.70885,-39.54108 -30.23347,-51.59533 3.95743,-0.989851 7.99002,-1.03646 12.25681,2.45136 3.07712,-7.817503 3.9312,-18.73862 3.38522,-29.883271 -0.3805,-7.766916 6.05936,-14.371254 8.98832,-16.225681 L 190.7393,44.357976 c 13.95261,4.172944 31.76826,7.467588 37.12062,27.898832 5.99337,-2.138929 10.81307,-5.451527 14.94164,-9.455252 -0.22067,5.800223 -2.63232,11.162253 -5.95331,16.342412 5.19257,-4.306859 11.03663,-6.224972 17.15953,-7.120623 -19.30569,14.455128 -20.59918,32.386075 -22.99611,53.813235 -2.53922,22.69917 -17.22477,28.748 -26.38132,31.8677 -7.09041,2.41575 -4.38377,24.38891 -4.78599,33.61868 -0.54645,12.53938 -12.68915,11.03152 -11.32296,0.11673 z"
+ id="path2827"
+ style="fill:#faf700;fill-opacity:1;stroke:none" />
+<use
+ transform="matrix(-0.80318364,-0.59573153,0.59573153,-0.80318364,232.09724,472.87923)"
+ id="use3768"
+ x="0"
+ y="0"
+ width="390"
+ height="480"
+ xlink:href="#path2827" />
+<use
+ transform="matrix(-0.80514106,0.59308335,-0.59308335,-0.80514106,466.78713,243.18428)"
+ id="use3770"
+ x="0"
+ y="0"
+ width="390"
+ height="480"
+ xlink:href="#path2827" />
+</svg>

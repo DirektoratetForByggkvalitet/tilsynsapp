@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <defs
+     id="defs4232" />
+  <path
+     d="m 0.51202379,0.50512952 c 129.66265621,0 259.32532621,0 388.98797621,0 C 389.48983,115.23328 370.33544,349.8309 194.89467,479.37706 21.249382,349.77255 0.5931986,115.2575 0.51202379,0.50512952 z"
+     id="path4240-0-1"
+     style="fill:#faf700;fill-opacity:1;stroke:#9e832a;stroke-width:0.99999905;stroke-opacity:1" />
+  <path
+     d="m 192.94118,391.89542 c 16.01038,-17.47343 26.60535,-50.29616 26.79738,-68.75817 l 1.83007,-175.94771 c 0.17763,-17.07791 -14.37909,-43.48584 -25.88236,-62.091501 -12.30348,18.247771 -27.65713,44.586031 -27.84313,61.437911 l -1.96079,177.64706 c -0.20576,18.64202 9.99137,50.62748 27.05883,67.71241 z"
+     id="path2830"
+     style="fill:#000000;stroke:none" />
+  <path
+     d="m 190.56212,310.06536 0,6.66667 c -12.04247,0.73315 -15.32027,-11.34451 -15.31056,-15.21872 l 0.2773,-110.64142 c -0.23498,-13.44118 2.30343,-26.24581 15.06645,-28.26116 l -0.0347,10.00579 c -8.51915,3.28752 -5.29441,10.12518 -1.72155,11.41539 -3.33637,5.56985 -4.83449,8.09106 -4.94512,10.99943 -1.18043,31.03293 0.90681,62.47433 1.47891,93.72632 0.053,2.89571 3.31618,3.57601 3.37378,7.57944 0.0331,2.25448 -4.328,5.08347 -4.39053,6.56269 -0.0526,1.24349 0.76961,3.89178 6.20598,7.16557 l 4e-5,0 z"
+     id="path3604"
+     style="fill:#ffff00;stroke:none" />
+  <use
+     transform="matrix(-1,0,0,1,386.77118,0)"
+     id="use3606"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3604" />
+  <use
+     transform="translate(108,-68)"
+     id="use3608"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="translate(108,-68)"
+     id="use3610"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3604" />
+  <use
+     transform="translate(108,-68)"
+     id="use3612"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#use3606" />
+  <use
+     transform="translate(-102,-66)"
+     id="use3614"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="translate(-102,-66)"
+     id="use3616"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3604" />
+  <use
+     transform="translate(-102,-66)"
+     id="use3618"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#use3606" />
+</svg>

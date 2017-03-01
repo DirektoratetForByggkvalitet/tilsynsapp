@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <defs
+     id="defs4232" />
+  <path
+     d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+     id="path4240-0"
+     style="fill:#d61a1a;fill-opacity:1;stroke:none" />
+  <path
+     d="m 179.80932,24.18432 25.39195,0 0.19068,23.771186 23.61229,-0.03178 0.22246,23.866526 23.83474,-0.04767 0.0795,23.834746 -23.97537,-0.04417 0,23.752492 -23.81991,0 0.0225,23.79744 -23.81991,0.045 -0.0225,-23.79744 -23.78621,-0.0562 -0.0112,-23.808677 -24.87608,0 -0.0225,-23.685081 24.71877,-0.06742 -0.11235,-23.797439 22.50031,0.02381 -0.12712,-23.755296 z"
+     id="path2830"
+     style="fill:#ececec;stroke:none" />
+  <use
+     transform="translate(0,136)"
+     id="use3604"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="translate(0,272)"
+     id="use3606"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+</svg>

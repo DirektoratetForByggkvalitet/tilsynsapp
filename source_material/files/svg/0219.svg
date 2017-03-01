@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Created by Peter J. Acklam <pjacklam@online.no>
+     from a description of the the official graphical
+     profile of Bærum municipality. -->
+
+<svg width="500" height="600" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- box to show canvas -->
+  <!-- <rect x="1" y="1" width="599" height="599"
+        fill="none" stroke="blue" stroke-width="1" /> -->
+
+  <!-- green background -->
+
+  <path d="M0,0 L500,0 L500,350 A250,250 0 0,1 0,350 z"
+        fill="rgb(32, 185, 0)" />
+
+  <!-- the main part of stylized oven -->
+  <path d="M125,50 L375,50 l75,400 l-400,0 z"
+        fill="rgb(204,204,204)" />
+
+  <!-- hollow out the interior -->
+  <circle cx="250" cy="440" r="80.5"
+          fill="rgb(32, 185, 0)"/>
+
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <defs
+     id="defs4232">
+    <linearGradient
+       id="linearGradient3652">
+      <stop
+         id="stop3654"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3656"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="1.041629"
+       y1="110.18271"
+       x2="389.03033"
+       y2="110.18271"
+       id="linearGradient2838"
+       xlink:href="#linearGradient3652"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3.7e-6)" />
+  </defs>
+  <path
+     d="m 0.51202379,0.50512952 c 129.66265621,0 259.32532621,0 388.98797621,0 C 389.48983,115.23328 370.33544,349.8309 194.89467,479.37706 21.249382,349.77255 0.5931986,115.2575 0.51202379,0.50512952 z"
+     id="path4240-0-1"
+     style="fill:#207dbf;fill-opacity:1;stroke:#999999;stroke-width:0.99999905;stroke-opacity:1" />
+  <path
+     d="m 296.06252,370.25027 c -42.60238,-10.39969 -83.82183,-28.94507 -84.00753,-71.72447 -0.27392,-63.10115 -1.7963,-165.73427 0.83507,-264.595729 0.22661,-6.43286 21.69943,1.23103 21.95043,6.03813 6.84726,98.706409 20.24887,191.345019 121.0295,199.634409 -4.88851,15.53224 -22.04825,72.1595 -59.80747,130.64766 z"
+     id="path2827"
+     style="fill:#ededed;fill-opacity:1;stroke:none" />
+  <path
+     d="m 94.42566,370.03857 c 42.73327,-10.40129 84.07668,-28.92551 84.26294,-71.69068 0.27483,-63.10115 1.80227,-165.73427 -0.83784,-264.595734 -0.22736,-6.43286 -21.77147,1.23103 -22.0233,6.03813 -6.86245,98.597954 -20.33064,191.120764 -121.143863,199.585434 11.538937,39.04317 33.761316,90.98484 59.742063,130.66285 z"
+     id="path2827-7"
+     style="fill:#ededed;fill-opacity:1;stroke:none" />
+</svg>

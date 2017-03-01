@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <defs
+     id="defs4232" />
+  <path
+     d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+     id="path4240-0"
+     style="color:#000000;fill:#d61a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m 134.96732,318.52288 0,-81.17648 53.79085,-53.13725 0,81.56863 -53.79085,52.7451 z"
+     id="path2830"
+     style="fill:#faf700;fill-opacity:1;stroke:none" />
+  <use
+     transform="matrix(-1,0,0,1,383.72549,0)"
+     id="use3606"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="matrix(1,0,0,-1,0,354.73203)"
+     id="use3608"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="matrix(-1,0,0,-1,383.72549,354.73203)"
+     id="use3610"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="matrix(0,1,-1,0,367.22876,-14.49673)"
+     id="use3612"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="matrix(0,-1,-1,0,367.22876,369.22876)"
+     id="use3614"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="matrix(0,-1,-1,0,519.22876,309.22876)"
+     id="use3616"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+  <use
+     transform="matrix(0,-1,1,0,16.49673,369.22876)"
+     id="use3618"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2830" />
+</svg>

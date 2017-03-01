@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <defs
+     id="defs4232">
+    <linearGradient
+       id="linearGradient3652">
+      <stop
+         id="stop3654"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3656"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="1.041629"
+       y1="110.18271"
+       x2="389.03033"
+       y2="110.18271"
+       id="linearGradient3715"
+       xlink:href="#linearGradient3652"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3.7e-6)" />
+  </defs>
+  <path
+     d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+     id="path4240-0"
+     style="color:#000000;fill:#207dbf;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m 201.74548,46.139317 c 38.45287,0.509732 79.21936,31.283385 76.52543,78.432193 -2.13535,37.37252 -25.41034,68.37146 -56.31356,71.69492 -9.22977,0.99261 -15.48904,4.12904 -16.14407,15.25423 -0.32319,5.48918 2.59848,12.96615 7.88136,14.49153 6.99878,2.02083 12.28583,-8.01872 19.0678,-10.67797 28.93557,-11.3458 64.91813,-32.86194 65.08474,-91.52542 0.16661,-58.663468 -44.62731,-98.290821 -96.48306,-98.771178 -46.74033,-0.432972 -97.6848,42.0182 -97.37287,99.915238 0.23697,43.98315 37.08279,82.90115 64.57626,92.6695 6.92126,2.4591 9.06896,13.22555 15.38136,11.82203 6.47496,-1.43966 9.04693,-6.2156 9.15254,-17.66949 0.10561,-11.45389 -6.46042,-12.08211 -15,-14.74576 -34.39182,-10.72743 -53.13776,-37.03914 -53.77119,-71.31356 -0.80029,-43.303594 34.6293,-80.143434 77.41526,-79.576263 z"
+     id="path2827"
+     style="fill:#faf700;fill-opacity:1;stroke:none" />
+  <use
+     transform="matrix(0.7933472,0,0,0.7933472,36.889202,223.21994)"
+     id="use3761"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2827" />
+</svg>

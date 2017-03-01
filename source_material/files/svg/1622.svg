@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="480">
+<defs>
+<pattern id="p" width="390" height="480" patternUnits="userSpaceOnUse">
+<path d="M0,0H390V480H0" fill="#ccc"/>
+<path d="M0,0H390V130H0" fill="#d61a1a"/>
+<path d="m1,1c129,0 259,0 388,0 0,31 -1,71 -7,115C305,115 91,122 29,219 6,136 1,55 1,1" opacity=".12" fill="#fff"/>
+<g id="g">
+<g id="h">
+<path d="m360.5,154c-2.2,19.8 -5.1,23.6 -8.9,27.6 5.9,-0.3 7.8,2.7 9.2,5.1 1.1,-2.4 3.6,-5.3 9.3,-5.2 -4.3,-3.8 -6.4,-7.8 -9.5,-27.5"/>
+<circle cx="355.7" cy="154" r="3.5"/>
+<circle cx="365.3" cy="154" r="3.5"/>
+<circle cx="360.5" cy="148" r="3.5"/>
+</g>
+<use x="-68" xlink:href="#h"/>
+<use x="-134" xlink:href="#h"/>
+<use x="-202" xlink:href="#h"/>
+<use x="-270" xlink:href="#h"/>
+<use x="-332" xlink:href="#h"/>
+</g>
+<use x="-32" y="60" xlink:href="#g"/>
+<use y="120" xlink:href="#g"/>
+<use x="-32" y="180" xlink:href="#g"/>
+<use y="240" xlink:href="#g"/>
+<use x="-32" y="300" xlink:href="#g"/>
+</pattern>
+</defs>
+<path d="m0.5,0.5c123,0 259,0 389,0C389,115 370,350 195,479 21,350 0.5,115 0.5,0.5z" fill="url(#p)" stroke="#999"/>
+</svg>

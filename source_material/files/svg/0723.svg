@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <defs
+     id="defs4232">
+    <linearGradient
+       id="linearGradient3653">
+      <stop
+         id="stop3655"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3657"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="109.87704"
+       x2="390"
+       y2="109.87704"
+       id="linearGradient2839"
+       xlink:href="#linearGradient3653"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+     id="path4240-0"
+     style="color:#000000;fill:#207dbf;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m 181.17647,407.2549 c 0.3206,6.06467 21.25351,6.30659 21.56863,-0.13072 l 4.8366,-77.97385 c 1.43822,-14.10862 17.52786,-16.59528 27.97386,-23.92157 36.13843,-25.34566 20.7935,-76.54459 15.35947,-100.98039 -0.81166,-3.64988 2.81902,-7.34063 3.72549,-11.24183 2.90335,-12.49522 -20.059,-5.3912 -20.39215,5.35947 -0.51842,16.72932 7.32999,34.3659 3.67226,55.72955 -9.06394,52.93959 -79.61824,43.403 -89.47442,0.18486 -4.44051,-19.47111 3.65947,-39.06803 5.54593,-58.60205 1.6735,-12.18074 -22.07458,-16.94969 -20.70482,-5.54593 0.37201,3.09712 6.38747,6.60323 4.62161,11.27673 -15.44884,40.88678 -14.24182,78.03564 18.67132,102.41494 14.94846,11.07257 23.4506,11.98198 21.99887,25.88104 l 2.59735,77.54975 z"
+     id="path3743"
+     style="fill:#ececec;stroke:none" />
+  <use
+     transform="translate(-88.734969,-139.01812)"
+     id="use3745"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3743" />
+  <use
+     transform="translate(90.213885,-139.75758)"
+     id="use3747"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3743" />
+</svg>

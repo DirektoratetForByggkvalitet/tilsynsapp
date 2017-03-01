@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <defs
+     id="defs4232">
+    <linearGradient
+       id="linearGradient3653">
+      <stop
+         id="stop3655"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3657"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="109.87704"
+       x2="390"
+       y2="109.87704"
+       id="linearGradient2879"
+       xlink:href="#linearGradient3653"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+     id="path4240-0"
+     style="color:#000000;fill:#d61a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m 21.554129,65.729205 11.970638,0.02379 c -0.157611,10.590731 0.713297,22.323978 4.514449,30.456155 11.354581,24.29197 36.251762,23.6229 58.300653,25.75163 22.048891,2.12873 108.673011,3.28373 163.267971,-0.26143 46.60856,-3.02656 75.93732,-8.63148 86.06544,-26.707082 4.91357,-8.769218 3.77343,-19.598095 4.26136,-29.404032 l 10.19608,0.130719 c 0.27616,16.867626 -1.54099,35.297795 -9.28105,49.575165 -13.34283,24.61226 -40.71882,29.48165 -59.3464,30.58823 -67.80718,4.02813 -135.49726,6.38248 -202.614381,0.78432 C 53.90061,143.74834 40.345345,127.87733 31.895425,114.5098 22.919506,100.31015 22.19407,82.260751 21.554129,65.729205 z"
+     id="path3618"
+     style="fill:#faf700;fill-opacity:1;stroke:none" />
+  <use
+     transform="matrix(0.92991379,0,0,0.86255571,15.376302,109.93809)"
+     id="use3620"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3618" />
+  <use
+     transform="matrix(0.72967997,0,0,0.72967997,53.592064,215.13571)"
+     id="use3622"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path3618" />
+</svg>

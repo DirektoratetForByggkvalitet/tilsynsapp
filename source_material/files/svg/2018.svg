@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <defs
+     id="defs4232">
+    <linearGradient
+       id="linearGradient3653">
+      <stop
+         id="stop3655"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3657"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="109.87704"
+       x2="390"
+       y2="109.87704"
+       id="linearGradient2917"
+       xlink:href="#linearGradient3653"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+     id="path4240-0"
+     style="color:#000000;fill:#d61a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m 22.563559,138.43221 c -1.19493,-15.71726 1.06076,-31.08203 4.70339,-46.398312 C 28.00606,88.926134 40.831115,71.129834 44.07839,71.12288 l 14.841102,-0.03178 0,-12.616525 c 0,-5.450648 58.550268,-43.532808 63.686448,-41.949152 26.62317,9.647877 24.50034,23.615834 58.48735,85.076957 2.56202,5.12355 -8.33424,19.10795 1.38553,33.52474 l 76.65254,126.86441 c 4.6886,7.75991 7.87251,9.80774 19.30771,15.77549 66.61773,47.48425 -14.26951,151.06552 -56.55347,68.63129 -9.83601,-20.36159 0.82027,-45.52644 -4.83051,-52.88136 -20.18691,-26.27478 -53.91385,-85.11484 -84.07392,-124.52034 -7.62905,-9.9677 -15.07767,-12.62748 -24.08957,-14.20206 L 63.948372,97.626761 c -5.696674,-7.24617 -14.550906,-1.906007 -17.437971,2.516819 -12.308466,18.85591 -15.996552,25.56053 -23.946842,38.28863 z"
+     id="path2830"
+     style="fill:#faf700;fill-opacity:1;stroke:none" />
+</svg>

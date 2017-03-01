@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="390"
+   height="480"
+   id="svg4228">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4232" />
+  <path
+     d="M 0,0 C 130,0 260,0 390,0 389.98981,114.99797 370.78556,350.14732 194.88837,479.99815 20.79131,350.08886 0.081386,115.02225 0,0 z"
+     id="path4240-0"
+     style="fill:#008c31;fill-opacity:1;stroke:none" />
+  <path
+     d="M 74.4375,81.249999 98.59375,72.687499 98.5625,253.5 74.5,253.46875 z"
+     id="path2998"
+     style="fill:#f2f2f2;stroke:none" />
+  <use
+     transform="translate(110,0)"
+     id="use3768"
+     style="fill:#f2f2f2"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2998" />
+  <use
+     transform="translate(220,0)"
+     id="use3770"
+     style="fill:#f2f2f2"
+     x="0"
+     y="0"
+     width="390"
+     height="480"
+     xlink:href="#path2998" />
+  <path
+     d="m 27.91027,141.57182 8.094118,22.40583 106.339362,-43.3214 -9.65625,-23.968751 z"
+     id="path3772"
+     style="fill:#f2f2f2;stroke:none" />
+  <path
+     d="M 33.234019,184.56195 45.122252,207.01259 253.49778,120.92234 244.79153,96.748124 z"
+     id="path3774"
+     style="fill:#f2f2f2;stroke:none" />
+  <path
+     d="M 39.951533,229.24226 356.77957,96.70393 365.30904,120.78975 50.4375,251.875 z"
+     id="path3776"
+     style="fill:#f2f2f2;stroke:none" />
+  <path
+     d="m 150.375,228.75 199.5625,-83.875 10.75,23.4375 -201.10234,83.95492 z"
+     id="path3778"
+     style="fill:#f2f2f2;stroke:none" />
+  <path
+     d="m 262.15984,229.33065 80.74276,-34.47146 8.88302,22.49483 -80.87534,34.47146 z"
+     id="path3780"
+     style="fill:#f2f2f2;stroke:none" />
+</svg>

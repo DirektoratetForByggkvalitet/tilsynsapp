@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1" width="100%" height="100%"
+   viewBox="0 0 480 600"
+   id="svg2">
+  <defs
+     id="defs5010">
+    <clipPath
+       id="clipPath3208">
+      <path
+         d="M 0,842.04 L 594.96,842.04 L 594.96,0 L 0,0 L 0,842.04 z"
+         id="path3210" />
+    </clipPath>
+    <clipPath
+       id="clipPath3202">
+      <path
+         d="M 17,819 L 577,819 L 577,22 L 17,22 L 17,819 z"
+         id="path3204" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 0.028410478,1.1368684e-13 C -1.4412475,320 74.198675,486.42582 239.6323,600 C 405.37036,487 480.70584,320 479.99502,1.1368684e-13 C 320.03491,1.1368684e-13 159.98857,1.1368684e-13 0.028410478,1.1368684e-13 z"
+     id="skold1000"
+     style="opacity:1;fill:#da121a;fill-opacity:1" />
+  <path
+     d="M 0.034072378,0 C 0.013231678,4.5378172 -0.0075250223,9.0236606 0.0026825777,13.5 C 12.0983,78.769516 99.969531,242 239.6323,242 C 192.51607,168.28992 176.99031,82.005716 193.01847,0 C 128.68297,-2.9238006e-22 64.352913,0 0.034072378,0 z"
+     id="solv2010"
+     style="opacity:1;fill:#e7e7e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 479.98388,2.0625 C 424.1644,5.0075488 239.6323,94.502812 239.6323,242 C 309.53024,197.71757 390.6722,181.47451 468.8405,193.21875 C 476.41141,136.30336 480.06851,72.953908 479.98388,2.0625 z"
+     id="solv2020"
+     style="opacity:1;fill:#e7e7e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 239.6323,242 C 309.94541,352 309.94541,490 239.6323,600 C 327.78335,539.89873 390.34517,464.517 429.5091,358.96875 C 388.16011,299.1589 323.1645,242 239.6323,242 z"
+     id="solv2030"
+     style="opacity:1;fill:#e7e7e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 239.6323,242 C 175.45715,282.65687 101.79555,299.69616 29.666029,293.125 C 44.862401,352.91868 66.008844,404.19328 93.355902,448.9375 C 162.39136,410.07491 239.6323,338.44313 239.6323,242 z"
+     id="solv2040"
+     style="opacity:1;fill:#e7e7e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>
