@@ -2,13 +2,12 @@
 
 Dette repoet inneholder all kildekode for DiBK kommunale tilsyn. Kildekoden ligger her fritt tilgjengelig som et Xcode-prosjekt, og krever dermed Apples Xcode for å kunne bygge appen. Dersom du vil bygge din egen versjon av appen står du fritt til å gjøre det uten vederlag.
 
-Koden inneholder et brukernavn og passord som fungerer for å hente ut sjekklister og oversettelser fra https://app-api.dibk.no via REST-kall og JSON-filer. Kopier av sjekklister og oversettelser i JSON- og Excel-format ligger sammen med kildekoden, i mappen **source_material**.
+Koden inneholder et brukernavn og passord som fungerer for å hente ut sjekklister og oversettelser fra https://app-api.dibk.no via REST-kall og JSON-filer. 
+En fungerende versjon av denne API-tjeneren er vedlagt, sammen med kopier av sjekklister og oversettelser i JSON- og Excel-format, i mappen **source_material**.
 
 ## Noen problemområder som eksisterer i koden ##
 
-Per iOS versjon 10.2 ser det ikke ut til at appen fungerer lenger. Den krasjer med en feilmelding. Det er antakelig relativt trivielt å fikse denne feilen, men DiBK har ikke satt av ressurser til å gjøre det.
-
-Appen benytter et rammeverk for å snakke med DropBox som kan være ikke-fungerende per i dag.
+Appen benytter et rammeverk for å snakke med DropBox som kan være ikke-fungerende per i dag. Appen kan også ha problemer med å generere PDF av tilsyn som inneholder mange bilder el.l. som kan bruke opp alt minnet til iPaden.
 
 ### Hvem kan jeg snakke med? ###
 
