@@ -30,4 +30,20 @@ You may construct new checklists by adding new Excel files to Library/sjekkliste
 
 The application uses an older version of the [Slim Framework](https://www.slimframework.com) to do the RESTful stuff, and uses the [PHPExcel class](https://github.com/PHPOffice/PHPExcel) to read from Excel files.
 
-The source code is distributed "as-is". You may freely use this code (or parts of it), as long as you provide it free of charge, and in accordance with the separate licenses for the libraries used.
+# License for use #
+
+The application is licensed under the Apache License, Version 2.0. This license includes all files, except those distributed with their own licenses.
+
+Copyright 2017 Direktoratet for byggkvalitet
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
