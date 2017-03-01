@@ -17,5 +17,6 @@ docker run -d --name api-server -p 8080:80 -v path-to-app-api-php:/var/www/html 
 ```
 
 Of course, there's a little bit more to it:
+
 * You must rename the file _htaccess inside app-api-php to .htaccess to get the RESTful URLs to work. Wih other servers than Apache, other measures are necessary.
 * For HTTPS access, you must change settings for Apache inside the container or run the docker container behind a reverse proxy.
