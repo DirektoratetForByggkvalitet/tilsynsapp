@@ -16,7 +16,7 @@ PS! Running in Windows will require some rewrite of the code, as paths are delim
 
 To install the necessary libraries, run composer update inside the root path of this folder, e.g.:
 
-composer update
+`composer update`
 
 After that, the server should be able to run
 
