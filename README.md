@@ -7,9 +7,7 @@ En fungerende versjon av denne API-tjeneren er vedlagt, sammen med kopier av sje
 
 ## Noen problemområder som eksisterer i koden ##
 
-Per iOS versjon 10.2 ser det ikke ut til at appen fungerer lenger. Den krasjer med en feilmelding. Det er antakelig relativt trivielt å fikse denne feilen, men DiBK har ikke satt av ressurser til å gjøre det.
-
-Appen benytter et rammeverk for å snakke med DropBox som kan være ikke-fungerende per i dag.
+Appen benytter et rammeverk for å snakke med DropBox som kan være ikke-fungerende per i dag. Appen kan også ha problemer med å generere PDF av tilsyn som inneholder mange bilder el.l. som kan bruke opp alt minnet til iPaden.
 
 ### Hvem kan jeg snakke med? ###
 
