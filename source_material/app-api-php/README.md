@@ -26,3 +26,6 @@ The web application reads the Excel files inside Library/ and Library/sjekkliste
 
 You may construct new checklists by adding new Excel files to Library/sjekklister. When properly formatted, they will add new checklists to the app.
 
+The application uses the [Slim Framework](https://www.slimframework.com) to do the RESTful stuff, and uses the [PHPExcel class](https://github.com/PHPOffice/PHPExcel) to read from Excel files.
+
+You may freely use this code (or parts of it), as long as you provide it free of charge, and in accordance with the separate licenses for the libraries used.
